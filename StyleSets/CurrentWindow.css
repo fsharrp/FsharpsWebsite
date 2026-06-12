@@ -1,0 +1,49 @@
+body {
+  background-size: 120%;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  font-family: Arial;
+}
+
+/* Background Settings */
+
+.TopPage {
+    width: 80%;
+    height: 450px;
+    background-color: rgba(54,45,223,0.8);
+  
+}
+
+.TitleSet {
+    font-size: 40px;
+    position: relative;
+    margin: 4px;
+    z-index: 0;
+    right: 6px;
+    border: 3px;
+    border-style: solid;
+    border-image: linear-gradient(to left, black, blue, purple, magenta, white) 1;
+    height: 10%;
+    width:100%;
+    background-color: gray;
+}
+
+.information {
+    width: 95%;
+    height: 360px;
+    background-color: rgba(231,133,255,0.5);
+    
+}
+/* ID tags */
+
+#f20 {
+  position: absolute;
+    z-index: 2;
+
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+html {
+  cursor: url('https://external-media.spacehey.net/media/smkXI1b9uqyE5u-yTk8OqjbGZzsdRmoW7GQBvdgjxnIM=/http://www.rw-designer.com/cursor-download.php?id=165880'), auto;
+}

@@ -1,0 +1,106 @@
+body {
+  font-family: COMIC SANS MS;
+  overflow-x: hidden;
+  overflow-y:auto;
+  margin: 1rem;
+ 
+}
+html {
+  cursor: url('https://external-media.spacehey.net/media/smkXI1b9uqyE5u-yTk8OqjbGZzsdRmoW7GQBvdgjxnIM=/http://www.rw-designer.com/cursor-download.php?id=165880'), auto;
+}
+p {
+  color:white;
+}
+/* Background Settings */
+
+.Header {
+  width: 100%;
+  height: 4400px;
+  background-color: white;
+  background-image: url("..//Pictures//background1.gif")
+}
+
+.HeaderLeft {
+  position: absolute;
+  width: 100%;
+  height: 440px;
+  background-color: black;
+  color: white;
+}
+
+.HeaderRight{
+  position: relative;
+  bottom: 23px;
+  left: 250px;
+  height: 440px;
+  width: 110%;
+  background-color: gray;
+}
+
+.infzero {
+  background: url("..//Pictures//images.jpg");
+    height:1000px;
+    width:504px;
+}
+
+.centered {
+	text-align:center;
+}
+
+.instruments {
+	position:relative;
+	width:90%;
+	height:3000px;
+	background: url("..//Pictures//wallpaper.jpg");
+	margin-left:25px;
+}
+
+.instrumentsFlute {
+	position:relative;
+	height:15%;
+	width:95%;
+	margin-left:5px;
+ background-color:black;
+	top:10px;
+}
+.instrumentsFluteold {
+	position:relative;
+	height:15%;
+	width:95%;
+	margin-left:5px;
+ background-color:black;
+	top:10px;
+}
+
+.Description {
+	position:relative;
+	left:10px;
+	width:95%;
+	height:35%;
+	background-color:red;
+}
+
+.borderwrap {
+max-width:490px;
+width:79%;
+position:relative;
+background: linear-gradient(to left, pink, white);
+padding:1px;
+}
+.borderwrap1 {
+max-width:490px;
+width:90%;
+position:relative;
+background: linear-gradient(to left, pink, white);
+padding:1px;
+}
+/* ID tags */
+
+#f20 {
+  position: absolute;
+    z-index: 2;
+ 
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}

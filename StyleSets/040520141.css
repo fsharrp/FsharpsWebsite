@@ -1,0 +1,214 @@
+html {
+  cursor: url('https://external-media.spacehey.net/media/smkXI1b9uqyE5u-yTk8OqjbGZzsdRmoW7GQBvdgjxnIM=/http://www.rw-designer.com/cursor-download.php?id=165880'), auto;
+}
+body {
+	background-color:gray;
+	font-family:"Arial";
+	background-size:300%;
+	background-repeat:no-repeat;
+	overflow: hidden;
+
+	margin:0;
+	max-width: 768px;
+	max-height:1024px;
+	display:block;
+}
+
+
+/* Layout Settings */
+.hjWrap {
+	left:20px;
+	max-width:110%;
+	max-height:110%;
+	padding:1rem;
+	position:absolute;
+	background: linear-gradient(to right, Black, Purple);
+	padding:3px;
+	
+}
+
+
+
+.hjtkrz {
+	left:20px;
+	overflow:hidden;
+	padding:3px;
+	height:28px;
+	width:610px;
+	float:left;
+	color:white;	
+	text-align: left;
+	background: linear-gradient(to right, Purple, Black);
+	
+}
+
+.LayoutMain {
+	position:absolute;
+	float:left;
+	width:921px;
+	height:512px;
+	margin:20px;
+	top:40px;
+	background-color:black;
+}
+
+.LayoutHeader {
+	position:absolute;
+	float:left;
+	Width:35%;
+	height:485px;
+	margin:5px;
+	top:10px;
+	background-color:gray;
+}
+
+.LayoutTable1 {
+	position:absolute;
+	float:left;
+	left:350px;
+	Width:60%;
+	height:465px;
+	margin:5px;
+	top:20px;
+	background-color:gray;
+}
+
+
+.LineSeparator {
+	position:absolute;
+	float:left;
+	right:563px;
+	top:254px;
+	background-color:white;
+	height:11px;
+	width:28px;
+
+}
+
+.shywolf2 {
+	position: absolute;
+	
+	background-color:black;
+	height:5%;
+	width:100%;
+	top:730px;
+}
+
+.SubNavigationBlocks {
+	position:absolute;
+	margin:1px;
+	float:right;
+	left:359px;
+	width:550px;
+	height:22px;
+	
+}
+
+.b1 {
+	position:relative;
+	float:left;
+	left:10px;
+	width:22px;
+	height:22px;
+	
+	
+transition:transform 0.7s;
+}
+.b1:hover {
+	transform:scaleY(1.5);
+	transform:rotate(360deg);
+}
+.b2 {
+	position:relative;
+	float:left;
+	left:55px;
+	width:22px;
+	height:22px;
+	background-color:gray;
+	transition:transform 0.7s;
+}
+.b2:hover {
+	transform:scaleY(1.5);
+	transform:rotate(360deg);
+}
+.b3 {
+	position:relative;
+	float:left;
+	left:80px;
+	width:22px;
+	height:22px;
+	background-color:gray;transition:transform 0.7s;
+	
+}
+.b3:hover {
+	transform:scaleY(1.5);
+	transform:rotate(360deg);
+}
+
+.b4 {
+	position:relative;
+	float:left;
+	left:75%;
+	width:22px;
+	height:22px;
+	background-color:gray;transition:transform 0.7s;
+}
+.b4:hover {
+	transform:scaleY(1.5);
+	
+}
+
+/* Iframe Configuration */
+
+#IframeI {
+	height:322px;
+	width:486px;
+}
+
+/* ID Tags */
+
+#floppy {
+	position: absolute;
+	bottom: 300px;
+	right: 600px;
+}
+
+#blobe {
+	position: absolute;
+	bottom: 720px;
+	left: 300px;
+}
+#gameboy {
+	position: absolute;
+	bottom: 230px;
+	left: 450px;
+}
+#planet {
+	position: absolute;
+	bottom: 320px;
+	left: 250px;
+}
+
+#volc {
+	position: absolute;
+	bottom: 160px;
+	left: 26px;
+}
+/* Other Tags */
+
+.Cout {
+	
+}	
+
+.Cout:hover {
+	transform:scaleY(1.5)
+}
+
+.over {
+	position:absolute;
+	width:81.5px;
+	height:105.5px;
+	left:1px;
+	z-index:1;
+}
+

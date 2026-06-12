@@ -1,0 +1,94 @@
+body {
+	
+	background-color:gray;
+	font-family:"Arial";
+	scrollbar-color:black;
+	background-size:100%;
+	background-repeat:no-repeat;
+	background-attatchment: fixed;
+
+margin:0;
+}
+html {
+  cursor: url('https://external-media.spacehey.net/media/smkXI1b9uqyE5u-yTk8OqjbGZzsdRmoW7GQBvdgjxnIM=/http://www.rw-designer.com/cursor-download.php?id=165880'), auto;
+}
+
+
+iframe {
+ overflow: hidden;
+}
+
+h1 {
+	font-family:"Arial";
+}
+
+/* Border Wraps for the front end */
+
+.borderwrap {
+max-width:490px;
+padding: 1rem;
+position:relative;
+background: linear-gradient(to bottom, Black, Blue);
+padding:3px;
+}
+
+.borderwrap_01 {
+max-width:490px;
+padding: 1rem;
+position:relative;
+background: linear-gradient(to bottom, Blue, DodgerBlue);
+padding:3px;
+}
+
+
+
+
+/* Text */
+.A1382 {
+	position:relative;
+	width:450px;
+	
+	padding: 1rem;
+	background-color:gray;
+	
+}
+
+.A1383 {
+	position:relative;
+	width:450px;
+	
+	padding: 1rem;
+	background-color:gray;
+	
+}
+
+/* Background Settings */
+
+.A1680 {
+	
+	float:bottom;
+	position:relative;
+	position:relative;
+	width:100%;
+	height: 65px;
+	top:10px;
+
+}
+
+.B83507 {
+	float:bottom;
+	position:absolute;
+	bottom:0px;
+	
+	
+}
+
+
+
+/* ID TAGS BELOW */
+
+#plant1 {
+position:relative;
+top:100px;
+float:right;
+}

@@ -1,0 +1,149 @@
+body {
+	background-color:gray;
+	font-family:"Arial";
+	background-size:300%;
+	background-repeat:no-repeat;
+	
+
+	margin:0;
+	max-width: 768px;
+	max-height:1024px;
+	display:block;
+}
+html {
+  cursor: url('https://external-media.spacehey.net/media/smkXI1b9uqyE5u-yTk8OqjbGZzsdRmoW7GQBvdgjxnIM=/http://www.rw-designer.com/cursor-download.php?id=165880'), auto;
+}
+/* Background Settings */
+
+
+
+.MainHead {
+	overflow:hidden;
+	position:relative;
+	float:left;
+	width:100%;
+	height:484px;
+	
+}
+
+.ProfileTop {
+	position:relative;
+	float:left;
+	left:5px;
+	top:4px;
+	margin:2px;	
+	background-image: url(trees.gif);
+	width:95%;
+	height:182px;
+	border:3px;
+	border-style:solid;
+	border-image:linear-gradient(to top, purple, pink, white, gray, black) 1;
+}
+
+.ProfileHead {
+	overflow:hidden;
+	position:relative;
+	float:left;
+	background-color:white;
+	margin:5px;
+	height:86.5px;
+	width:68.5px;
+	border: 3px;
+	border-style:solid;
+	border-image:linear-gradient(to top, purple, pink, white, gray, black) 1;
+}
+
+.ProfileInformation {
+	text-align:left;
+	margin:5px;
+	position:absolute;
+	float:left;
+	left:80px;
+	background: linear-gradient(to bottom right, magenta,purple, pink);
+	width:210px;
+	height:86.5px;
+	border: 3px;
+	border-style:solid;
+	border-image:linear-gradient(to left, purple, pink, white, gray, black) 1;
+}
+
+
+.ProfileMiddle {
+	top: 5px;
+	position:relative;
+	overflow:hidden;
+	width:95%;
+	height:280px;
+	background-image:url(circut.gif);
+	border: 2px;
+	left:1px;
+	border-style:solid;
+	border-image:linear-gradient(to bottom, purple, magenta, white) 1;
+	
+}
+
+.MiddleGround {
+	height:80%;
+	width:100%;
+	color:white;
+}
+
+.Geninfo {
+  margin:7px;
+	float:left;
+	text-align:left;
+	width:90%;
+	color:white;
+}
+
+/* ID Tags */
+
+
+
+#Fwork {
+	position:absolute;
+	right:246px;
+	top:134px;
+}
+
+#Pwork {
+	position:absolute;
+	right:1px;
+	top:87px;
+}
+
+#Cwork {
+	position:absolute;
+	right:140px;
+	top:150px;
+}
+
+#Faux {
+	position:absolute;
+	overflow:hidden;
+	right:1px;
+	top:226px;
+	
+}
+
+/* Misc */
+
+.Cout {
+	position:absolute;
+	top:106px;
+	left:5px;
+transition:transform 0.7s;
+}	
+
+.Cout:hover {
+	transform:rotate(360deg);
+}
+
+.over {
+	position:absolute;
+	width:81.5px;
+	height:105.5px;
+	left:1px;
+	z-index:1;
+}
+
