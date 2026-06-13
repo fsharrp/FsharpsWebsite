@@ -1,15 +1,20 @@
 body {
   background-size: 120%;
-  background-repeat: no-repeat;
-  overflow: hidden;
+  background-repeat:repeat-y;
+  overflow-x:hidden;
   font-family: Arial;
+   font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
+
+
 
 /* Background Settings */
 
 .TopPage {
     width: 80%;
-    height: 450px;
+    height: 3000px;
     background-color: rgba(54,45,223,0.8);
   
 }
@@ -23,14 +28,14 @@ body {
     border: 3px;
     border-style: solid;
     border-image: linear-gradient(to left, black, blue, purple, magenta, white) 1;
-    height: 10%;
+    height: 40px;
     width:100%;
     background-color: gray;
 }
 
 .information {
     width: 95%;
-    height: 360px;
+    height: 95%;
     background-color: rgba(231,133,255,0.5);
     
 }
