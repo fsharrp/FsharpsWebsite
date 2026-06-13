@@ -30,3 +30,10 @@ function Click3() {
 	
 };
 
+var audio4 = document.getElementById("FourthSound")
+function Click4() {
+
+     audio4.currentTime = 0;
+     audio4.play();
+	
+};

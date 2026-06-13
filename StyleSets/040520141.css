@@ -134,7 +134,7 @@ transition:transform 0.7s;
 .b3 {
 	position:relative;
 	float:left;
-	left:80px;
+	left:100px;
 	width:22px;
 	height:22px;
 	background-color:gray;transition:transform 0.7s;
