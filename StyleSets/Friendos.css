@@ -1,0 +1,52 @@
+body {
+	background-color:gray;
+	font-family:"Comic Sans MS";
+	background-size:100%;
+	background-repeat:repeat;
+	overflow: hidden;
+	color:black;
+	margin:0;
+	max-width: 768px;
+	max-height:1024px;
+	display:block;
+}
+h1 {
+	font-size:69%;
+}
+
+/* Background Settings */
+
+.centralDiv {
+	top:5px;
+	align-content:center;
+	position:relative;
+	width:95%;
+	height:100%;
+}
+
+.epickHeadlol {
+		align-content:center;
+		position:relative;
+		float:center;
+		width:85%;
+		height:200px;
+		
+		background-image:url('../Pictures/Backdrops/paperBG.jpg');
+		background-color:white;
+		border-image-slice: 160 160 160 160;
+		border-image-width: 50px 50px 50px 50px;
+		border-image-repeat: stretch stretch;
+		border-image-source: url('../Pictures/Frames/frame1.png');}
+}
+
+
+/* Layout Settings */
+
+
+/* Iframe Configuration (Optionals) */
+
+
+/* ID Tags */
+
+
+/* Other Tags */
