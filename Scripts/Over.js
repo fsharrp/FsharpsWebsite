@@ -37,3 +37,11 @@ function Click4() {
      audio4.play();
 	
 };
+
+var audio5 = document.getElementById("infoSound")
+function Click5() {
+
+     audio5.currentTime = 0;
+     audio5.play();
+	
+};
